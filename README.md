@@ -7,3 +7,4 @@
 **Data Generation Notebook** : https://colab.research.google.com/drive/10I-YUJlFkQGpc6xK6y3v7uo9nibIksWp?usp=sharing
 
 **Presentation** : https://www.canva.com/design/DAGDIQY9Szc/5ioJJmLWVLq22G4Bojll-w/edit
+Both approaches mentioned in the paper have been implemented; you need IBM CPLEX Studio IDE to open the solution. Screenshots of the solution code have also been attached to the project report doc.
